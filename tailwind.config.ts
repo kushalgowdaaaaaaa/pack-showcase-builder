@@ -61,7 +61,14 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				// Custom Daily Dhān'ya colors
+				'organic-green': 'hsl(var(--organic-green))',
+				'organic-light': 'hsl(var(--organic-green-light))',
+				'saffron': 'hsl(var(--saffron-orange))',
+				'saffron-light': 'hsl(var(--saffron-light))',
+				'cream-base': 'hsl(var(--cream-base))',
+				'warm-brown': 'hsl(var(--warm-brown))'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
