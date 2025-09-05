@@ -36,12 +36,6 @@ const Hero = () => {
             Packed with protein, dietary fiber, and iron, each serving balances wholesome energy 
             and natural taste, supporting family health and happiness.
           </p>
-          
-          <div className="mb-8">
-            <Button variant="organic-outline" size="lg" className="text-lg px-8 py-6 bg-white/10 backdrop-blur-sm">
-              Learn More
-            </Button>
-          </div>
         </div>
       </div>
       

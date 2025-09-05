@@ -9,17 +9,13 @@ const Header = () => {
           <h1 className="text-2xl font-bold text-warm-brown">Daily Dhān'ya</h1>
         </div>
         
-        <nav className="hidden md:flex space-x-8">
+        <div className="hidden md:flex space-x-8">
           <a href="#benefits" className="text-foreground hover:text-organic-green transition-colors">Benefits</a>
           <a href="#ingredients" className="text-foreground hover:text-organic-green transition-colors">Ingredients</a>
           <a href="#usage" className="text-foreground hover:text-organic-green transition-colors">How to Use</a>
           <a href="#nutrition" className="text-foreground hover:text-organic-green transition-colors">Nutrition</a>
           <a href="#contact" className="text-foreground hover:text-organic-green transition-colors">Contact</a>
-        </nav>
-        
-        <Button variant="organic" size="lg">
-          Order Now
-        </Button>
+        </div>
       </div>
     </header>
   );
