@@ -84,14 +84,6 @@ const Nutrition = () => {
                     <span className="font-bold">₹220/-</span>
                   </div>
                   <div className="flex justify-between">
-                    <span>MFG Date:</span>
-                    <span>01/09/2025</span>
-                  </div>
-                  <div className="flex justify-between">
-                    <span>EXP Date:</span>
-                    <span>01/06/2026</span>
-                  </div>
-                  <div className="flex justify-between">
                     <span>Net Weight:</span>
                     <span>250g</span>
                   </div>

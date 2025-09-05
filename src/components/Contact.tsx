@@ -34,6 +34,7 @@ const Contact = () => {
                 <div>
                   <h4 className="font-semibold text-saffron-light mb-2">Contact</h4>
                   <p>📞 To re-order please contact: 6360834242</p>
+                  <p>📸 Follow us: <a href="https://www.instagram.com/daily_dhaanya" target="_blank" rel="noopener noreferrer" className="text-saffron-light hover:text-white transition-colors underline">@daily_dhaanya</a></p>
                 </div>
                 
                 <div>
