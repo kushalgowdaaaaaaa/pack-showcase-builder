@@ -37,28 +37,10 @@ const Hero = () => {
             and natural taste, supporting family health and happiness.
           </p>
           
-          <div className="flex flex-col sm:flex-row gap-4 mb-8">
-            <Button variant="saffron" size="lg" className="text-lg px-8 py-6">
-              Order Now - ₹220/-
-            </Button>
+          <div className="mb-8">
             <Button variant="organic-outline" size="lg" className="text-lg px-8 py-6 bg-white/10 backdrop-blur-sm">
               Learn More
             </Button>
-          </div>
-          
-          <div className="flex flex-wrap gap-6 text-cream-base/80">
-            <div className="flex items-center gap-2">
-              <div className="w-2 h-2 bg-saffron rounded-full"></div>
-              <span>MFG: 01/09/2025</span>
-            </div>
-            <div className="flex items-center gap-2">
-              <div className="w-2 h-2 bg-saffron rounded-full"></div>
-              <span>EXP: 01/06/2026</span>
-            </div>
-            <div className="flex items-center gap-2">
-              <div className="w-2 h-2 bg-saffron rounded-full"></div>
-              <span>250g Pack</span>
-            </div>
           </div>
         </div>
       </div>
